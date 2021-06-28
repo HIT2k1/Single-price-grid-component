@@ -65,7 +65,7 @@ a {
   grid-column: 1/span 1;
   padding: 4.5rem 4rem;
   background-color: #2ab2af;
-  color: #e5eff5;
+  color: #fff;
   border-bottom-left-radius: 5px;
 }
 .card-subscription__title {
@@ -105,7 +105,7 @@ a {
   padding: 4.5rem 4rem;
   background-color: #4abebd;
   border-bottom-right-radius: 5px;
-  color: #e5eff5;
+  color: #fff;
 }
 .card-whyUs__title {
   font-size: 2rem;
